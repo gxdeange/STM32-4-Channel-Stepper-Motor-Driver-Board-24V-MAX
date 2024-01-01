@@ -21,14 +21,17 @@ Motor 1:
 * STEP1 - PA11
 * DIR1 - PA10
 * EN1 - PA9
+  
 Motor2:
 * STEP2 - PA8
 * DIR2 - PC9
 * EN2 - PC8
+  
 Motor 3:
 * STEP3 - PC7
 * DIR3 - PC6
 * EN3 - PB15
+  
 Motor 4:
 * STEP4 - PB14
 * DIR4 - PB13
