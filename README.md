@@ -11,6 +11,7 @@ Features include:
 * 12 X GPIO solder pads (can use standard 2.54mm Dupont Header pins)
 * 4 of the GPIO solder pads with R/C input filtering (PC1, PC0, PA1, PB9)
 * USB Mini Connector
+* Small Form Factor (Approx 28mm X 64mm)
 
   <img width="311" alt="STM32 4 Channel Stepper Motor Driver Board" src="https://github.com/gxdeange/STM32-4-Channel-Stepper-Motor-Driver-Board-24V-MAX/assets/57690555/7ffd2c80-ab13-4f3a-bdd3-320f27efda8c">
 
