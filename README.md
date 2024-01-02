@@ -38,3 +38,7 @@ Motor 4:
 * EN4 - PB12
 
 <img width="953" alt="STM32 4 Channel Pin Mappings" src="https://github.com/gxdeange/STM32-4-Channel-Stepper-Motor-Driver-Board-24V-MAX/assets/57690555/c845d6c5-13ff-4c0a-a196-fcc7b8943a82">
+
+# PROGRAMMING NOTE
+
+This MCU does not use an external crystal and any code that uses the Internal RC Clock (HSI).
