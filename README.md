@@ -17,25 +17,8 @@ Features include:
 
 # Motor Driver / MCU Pin Mappings
 
-Motor 1: 
-* STEP1 - PA11
-* DIR1 - PA10
-* EN1 - PA9
-  
-Motor2:
-* STEP2 - PA8
-* DIR2 - PC9
-* EN2 - PC8
-  
-Motor 3:
-* STEP3 - PC7
-* DIR3 - PC6
-* EN3 - PB15
-  
-Motor 4:
-* STEP4 - PB14
-* DIR4 - PB13
-* EN4 - PB12
+![image](https://github.com/gxdeange/STM32-4-Channel-Stepper-Motor-Driver-Board-24V-MAX/assets/57690555/2026c2c4-9cc1-4692-afd2-9b9e26087b16)
+
 
 <img width="953" alt="STM32 4 Channel Pin Mappings" src="https://github.com/gxdeange/STM32-4-Channel-Stepper-Motor-Driver-Board-24V-MAX/assets/57690555/c845d6c5-13ff-4c0a-a196-fcc7b8943a82">
 
