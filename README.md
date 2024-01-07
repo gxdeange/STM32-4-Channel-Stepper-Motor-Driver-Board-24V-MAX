@@ -17,7 +17,7 @@ Features include:
 
   <img width="311" alt="STM32 4 Channel Stepper Motor Driver Board" src="https://github.com/gxdeange/STM32-4-Channel-Stepper-Motor-Driver-Board-24V-MAX/assets/57690555/7ffd2c80-ab13-4f3a-bdd3-320f27efda8c">
 
-# STM32 4-Channel Stepper Motor Driver Board Micro Step @24V MAX
+# STM32 4-Channel Stepper Motor Driver Board with Adjustable Micro Stepping @24V MAX
 
 * Adjustable MicroStep settings via M0 and M1 slide switches
 * Small Form Factor (Approx 30.5mm X 64mm)
@@ -25,7 +25,7 @@ Features include:
 
   <img width="324" alt="STM32f401RCT6 4 Channel Stepper Motor Driver M:Step" src="https://github.com/gxdeange/STM32-4-Channel-Stepper-Motor-Driver-Board-24V-MAX/assets/57690555/cc28e04b-da89-4f3b-bfe5-a26c47f9fa0b">
 
-# STM32 4-Channel Stepper Motor Driver Board With Buffered, Schmitt Trigger Inputs (8 X GPIO's) with Adjustable Micro Stepping
+# STM32 4-Channel Stepper Motor Driver Board With Buffered, Schmitt Trigger Inputs (8 X GPIO's) and Adjustable Micro Stepping @24V Max
 
 * 8 of the GPIO solder pads have buffered Schmitt trigger inputs (PA1, PA4, PC0, PC1, PA12, PB7, PB8, PB9)
 * Inputs for above 10 GPIO's are pulled High (3.3V via 10K resistor)
