@@ -20,6 +20,7 @@ Features include:
 # STM32 4-Channel Stepper Motor Driver Board Micro Step @24V MAX
 
 This version of the Driver Board has adjustable MicroStep settings via M0 and M1 slide switches
+* Small Form Factor (Approx 30.5mm X 64mm)
 * **All GPIO Inputs / Outputs are rated at 3.3V**
 
   <img width="324" alt="STM32f401RCT6 4 Channel Stepper Motor Driver M:Step" src="https://github.com/gxdeange/STM32-4-Channel-Stepper-Motor-Driver-Board-24V-MAX/assets/57690555/cc28e04b-da89-4f3b-bfe5-a26c47f9fa0b">
